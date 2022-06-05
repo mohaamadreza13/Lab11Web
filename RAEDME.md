@@ -11,7 +11,7 @@ Berikut beberapa ekstensi yang perlu diaktifkan:
 • php-mysqlnd native driver untuk MySQL;
 • php-xml ekstension untuk bekerja dengan XML;
 • php-intl ekstensi untuk membuat aplikasi multibahasa;
-• libcurl (opsional), jika ingin pakai Curl.
+• libcurl (opsional), jika ingin pakai Curl..
 
 ## 1.mengaktifkan ekstentsi tersebut, melalu XAMPP Control Panel, pada bagian Apache klik Config -> PHP.ini
 
