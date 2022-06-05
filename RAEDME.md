@@ -1,5 +1,6 @@
 ## Reza Tariki Taser
 ## TI.20.A2
+## 312010265
 ## Pemrograman Web
 
 Sebelum memulai menggunakan Framework Codeigniter, perlu dilakukan konfigurasi
