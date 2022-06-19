@@ -454,17 +454,7 @@ $data['isi'];?></textarea>
 ```
 ![Edit](img/Edit.png)
 
-## Langkah ketigabelas
-Menghapus Data
-Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
-```php
-public function delete($id)
-{
-$artikel = new ArtikelModel();
-$artikel->delete($id);
-return redirect('admin/artikel');
-}
-```
+## Langkah kerigabelas
 
 
 
